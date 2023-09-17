@@ -1,0 +1,38 @@
+.titel{    
+    display: flex;
+    justify-content: center;
+
+font-family: 'Lucida console';
+
+    color: red;
+}
+
+
+table{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    width: ;
+}
+
+th{
+    color: red;
+
+}
+
+   th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+
+}
+
+img{
+    width: 4.5%;
+    height: auto;
+}
+
+
+
+
+
